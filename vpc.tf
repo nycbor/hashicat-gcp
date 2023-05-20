@@ -13,6 +13,7 @@ subnets = [
     subnet_region = var.region
   }
 ]
+
     
 }
 
